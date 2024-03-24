@@ -1,1 +1,3 @@
-console.log("Hello uswa");
+let me= "Uswa"
+let you= "Anas"
+console.log(me+' '+you);
